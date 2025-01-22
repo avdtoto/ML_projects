@@ -27,7 +27,7 @@ This project involves fetching and processing movie data using the IMDb API. The
 
 This project focuses on predicting IMDb movie ratings or other numerical data using machine learning regression models. The folder contains:
 
-- **[IMDb movies.csv](IMDB_regression/IMDb movies.csv)**: A dataset containing various attributes of movies such as title, genre, rating, runtime, and other features used for training the regression model.
+- **[IMDb movies.csv](IMDB_regression/IMDb_movies.csv)**: A dataset containing various attributes of movies such as title, genre, rating, runtime, and other features used for training the regression model.
 - **[project_ml_regression_IMDB.ipynb](IMDB_regression/project_ml_regression_IMDB.ipynb)**: A notebook that implements machine learning regression algorithms to predict IMDb movie ratings or other continuous variables. The workflow involves data preprocessing, feature engineering, model selection, training, and evaluation.
 
 ## 5. Census Income
